@@ -2,7 +2,7 @@
 
 * [Egretia 教程文档](README.md)
 * [常见问题 FAQ](chang-jian-wen-ti-faq.md)
-* [开发环境配置](egretia-server-an-zhuang.md)
+* [开发环境配置](kai-fa-huan-jing-pei-zhi.md)
 * [Hello World](hello-world.md)
 
 ## Egret 工作流简介
@@ -24,9 +24,5 @@
 * SmartIDE 操作手册
 * 部署和运行
 * 第一个智能合约
-
-## Web Wallet 使用手册
-
-* Web Wallet 简介
-* [Web Wallet 操作手册](web-wallet-shi-yong-shou-ce/web-wallet-jiao-cheng.md)
+* [Web Wallet 操作手册](web-wallet-cao-zuo-shou-ce.md)
 
