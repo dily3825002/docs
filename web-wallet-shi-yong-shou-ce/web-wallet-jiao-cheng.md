@@ -1,8 +1,4 @@
----
-description: Title2
----
-
-# Title2
+# 界面简介
 
 ## Getting Super Powers
 

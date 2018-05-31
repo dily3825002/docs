@@ -1,8 +1,4 @@
----
-description: Title1
----
-
-# Title1
+# SmartIDE 调试 Dapp
 
 ## Getting Super Powers
 
