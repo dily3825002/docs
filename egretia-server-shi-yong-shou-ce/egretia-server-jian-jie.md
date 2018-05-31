@@ -1,4 +1,4 @@
-# Egretia Server 教程
+# Egretia Server 简介
 
 Egretia Server 是以太坊开发的本地节点服务器，您可以使用它来部署智能合约，开发应用程序并运行测试。
 

@@ -1,4 +1,4 @@
-# 界面简介
+# Web Wallet 操作手册
 
 ## Getting Super Powers
 
