@@ -10,6 +10,7 @@
 * [Egret Engine 教程](http://developer.egret.com/cn/github/egret-docs/Engine2D/getStarted/helloWorld/index.html)
 * [Egret Wing 教程](http://developer.egret.com/cn/github/egret-docs/Wing/introduction/index.html)
 * [Egret 扩展库](http://developer.egret.com/cn/github/egret-docs/extension/threes/instructions/index.html)
+* [Egret 扩展库](http://developer.egret.com/cn/github/egret-docs/extension/threes/instructions/index.html)
 
 ## Egretia Server 使用手册
 
