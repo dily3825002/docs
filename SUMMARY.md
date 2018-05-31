@@ -24,5 +24,5 @@
 * SmartIDE 操作手册
 * 部署和运行
 * 第一个智能合约
-* [Web Wallet 操作手册](web-wallet-cao-zuo-shou-ce.md)
+  * [Web Wallet 操作手册](smartide-shi-yong-shou-ce/di-yi-ge-zhi-neng-he-yue/web-wallet-cao-zuo-shou-ce.md)
 
