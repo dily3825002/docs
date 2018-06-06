@@ -1,6 +1,5 @@
 # Hello World
 
-
 ## Launcher Create game
   The default developer has installed the Egretlauncher tool, open Egretlauncher, click on Project > Create project, check Egretia SDK module, after creating the project, Egretia SDK library will be automatically added to the game project, as shown in the figure:
   
