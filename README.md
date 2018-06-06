@@ -22,7 +22,7 @@ Egretia 将已有的 HTML5 技术及产品工具相结合，打造一个完整�
 
 Egretia 开发环境搭建非常简单。
 
-* [开发环境搭建](install/install,md)
+* [开发环境搭建](install/install.md)
 
 SmartIDE 和 Web Wallet 是云端的，可以直接使用，后续有详细教程。
 
@@ -36,24 +36,32 @@ SmartIDE 和 Web Wallet 是云端的，可以直接使用，后续有详细教�
 
 Egretia Server 是以太坊开发的本地节点服务器，您可以使用它来部署智能合约，开发应用程序并运行测试。 Egretia Server 是可视化的方式进行操作，通过官方操作手册可以让开发者快速上手。
 
-* [Egretia Server 简介]()
-* [Egretia Server 操作手册]()
-* [Metamask 使用]()
+* [Egretia Server 简介](egretiaserver/introduction.md)
+* [概览](egretiaserver/overview.md)
+* [账户](egretiaserver/account.md)
+* [区块、交易、日志](egretiaserver/block.md)
+* [Egretia Server 设置](egretiaserver/setting.md)
+* [Metamask 使用](egretiaserver/metamask.md)
 
 ## SmartIDE
 
 开发区块链游戏避不开智能合约的开发，SmartIDE 是一款功能强大的开源工具，可以让您直接在云端编写 Solidity 合约。
 
-* [SmartIDE 简介]()
-* [SmartIDE 操作手册]()
-* [部署和运行]()
-* [第一个智能合约]()
+* [SmartIDE 简介](smartide/introduction.md)
+* [资源管理器](smartide/document.md)
+* [代码编辑器](smartide/editor.md)
+* [控制台输出](smartide/console.md)
+* [编译](smartide/compile.md)
+* [运行 & 部署](smartide/run.md)
+* [设置](smartide/setting.md)
+* [分析](smartide/analysis.md)
+* [调试](smartide/debug.md)
 
 ## Web Wallet
 
 区块链游戏开发和传统游戏开发另一个非常大的区别在于，区块链游戏需要经常和区块链进行交互，所以会频繁的和钱包打交道。虽然市面上有 Metamask 等第三方钱包，但是对于 Egretia 工作流来说不是非常方便，所以 Egretia 团队开发了本地调试钱包 Web Wallet。
 
-* [Web Wallet 操作手册]()
+* [Web Wallet 操作手册](webwallet/webwallet.md)
 
 ## Egret 文档
 
