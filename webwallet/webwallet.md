@@ -8,19 +8,19 @@ Web Wallet 是 Egretia 团队提供给开发者的网页端钱包。区块链游
 
 Web Wallet 登陆目前分两步，第一步需要使用 Egretia Server 的助记词，第二步需要使用密码登陆。
 
-![](../egretiaserver/pic1.png)
+![](pic1-1.png)
 
 打开 Egretia Server，获取助记词。
 
-![](../egretiaserver/pic1.png)
+![](pic1-2.png)
 
 然后使用 Wing 点击调试游戏，调出 Web Wallet 页面，点击**使用助记词导入钱包**
 
-![](../egretiaserver/pic1.png)
+![](pic1-3.png)
 
 然后输入助记词和密码，这个密码是以后用来登陆 Web Wallet 的密码。
 
-![](../egretiaserver/pic1.png)
+![](pic1-4.png)
 
 以后登陆只需要使用密码即可，当然开发者随时可以使用助记重新导入钱包。
 
@@ -28,37 +28,34 @@ Web Wallet 登陆目前分两步，第一步需要使用 Egretia Server 的助�
 
 在 Egretia Server 的**设置**里可以设置 Egretia Server RPC 服务器的地址，Web Wallet 就需要设置这个地址才可以正常使用。
 
-![](../egretiaserver/pic1.png)
+![](pic2-1.png)
 
 通过 Egretia Server 获取 RPC 地址。
 
-![](../egretiaserver/pic1.png)
+![](pic2-2.png)
 
 打开 Web Wallet RPC 设置页面，粘贴保存，即可获取 Egretia Server 数据。
 
-![](../egretiaserver/pic1.png)
+![](pic2-3.png)
 
 ## 转账
 
-钱包登陆成功后可以查看目前的余额和对应的美元，当然开发者可以进行转账，举例来说，开发者从地址`0x939493274924093`转账给`0x939493274924093` 10 ETH。
+钱包登陆成功后可以查看目前的余额和对应的美元，当然开发者可以进行转账，举例来说，开发者从地址`0xe7278545944Ee85dF8B2c141B1d53D2d63c25833`转账给`0x5DC389FA8D943646b801248F19555cc8AD9343CF` 10 ETH。
 
-![](../egretiaserver/pic1.png)
+![](pic3-1.png)
 
-点击转账，输入 10，点击提交，输入密码即可。
+点击转账，输入 10，点击提交。
 
-![](../egretiaserver/pic1.png)
+![](pic3-2.png)
 
-## 支付
+输入密码。
 
-以上内容描述了 Web Wallet 的基础功能，而游戏如何和 Web Wallet 进行交互呢？以 AVG 示例为例。
+![](pic3-3.png)
 
-![](../egretiaserver/pic1.png)
+发现`0xe7278545944Ee85dF8B2c141B1d53D2d63c25833`少了 10 ETH。
 
-我们购买 0.5 个还魂丹，需要 1 个 ETH，点击按钮。
+![](pic3-4.png)
 
-![](../egretiaserver/pic1.png)
+发现`0x5DC389FA8D943646b801248F19555cc8AD9343CF`多了 10 ETH。
 
-弹出 Web Wallet 确认窗口，输入密码即可。
-
-![](../egretiaserver/pic1.png)
-
+![](pic3-5.png)
