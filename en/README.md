@@ -14,7 +14,7 @@ For developers who are new to the blockchain, we have prepared several introduct
 
 First step of development a blockchain's game is construction of development environment.Before Egretia appeared, developers needed to learn a lot of blockchain knowledge, including language, wallet, publish chain and tools, as shown in the picture below.
 
-![](pic1.png)
+![](pic.png)
 
 Since the blockchain is still in its infancy, the technology in various aspects is not very perfect. Developers have a very high barrier to entry from the traditional game field to the blockchain game field, and they need to spend a lot of time and energy.
 

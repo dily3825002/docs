@@ -1,6 +1,6 @@
 # Egretia Server brief introduction
 
-Egretia Server is local node server developed by Ethereum, you can use it to deploy smart contract, develop and test application.
+Egretia Server is local node server, you can use it to deploy smart contract, develop and test application.
 
 ## **Usage platform**
 
