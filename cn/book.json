@@ -3,7 +3,6 @@
     "description" : "Egretia Document",
     "author" : "Egretia Team",
     "generator": "site",
-    "language" : "zh-hans",
     "gitbook" : "2.6.4",
    "plugins": [
         "tbfed-pagefooter",
